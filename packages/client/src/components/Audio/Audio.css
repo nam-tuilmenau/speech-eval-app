@@ -1,0 +1,9 @@
+.play-button-div, .tracktime-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.play-button {
+  margin: 1em;
+}

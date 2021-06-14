@@ -1,0 +1,7 @@
+label, .scale {
+  margin: 1em auto;
+}
+
+.radio-group-full-width >>>.v-input__control {
+  width: 100%
+}

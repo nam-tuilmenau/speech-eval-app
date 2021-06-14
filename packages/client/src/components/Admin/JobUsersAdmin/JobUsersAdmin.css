@@ -1,0 +1,6 @@
+
+.parent {
+  max-width: 100vw !important;
+  width: 96vw !important;
+  margin-left: calc(50% - 48vw) !important;
+}
